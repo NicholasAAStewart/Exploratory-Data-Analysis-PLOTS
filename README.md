@@ -1,6 +1,7 @@
 # Exploratory-Data-Analysis-PLOTS
-$ plots with the R code used to generate the plots
-$ plots have been generated as png files.
+Plots with the R code used to generate the plots.
+
+The plots have been generated as png files.
 Week 1 Peer-Graded Assignment in Coursera course: Exploratory Data Analysis.
 
 There are 8 deliverables as required:
